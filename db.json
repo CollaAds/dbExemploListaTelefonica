@@ -1,0 +1,35 @@
+{
+    "contatos":[
+        {
+        "nome" : "João",
+        "telefone" : 999999999
+        },
+        {
+        "nome" : "Maria",
+        "telefone" : 777777777
+        },
+        {
+        "nome" : "Carlos",
+        "telefone" : 555555555
+        },
+        {
+        "nome" : "Douglas",
+        "telefone" : 333333333
+        }
+    ],
+    "operadoras":[
+        {
+           " nome": "Oi",
+            "codigo": 14
+        }, {
+           " nome": "Vivo",
+            "codigo": 15
+        }, {
+            "nome": "Tim",
+            "codigo": 41
+        }, {
+            "nome": "Claro",
+            "codigo": 21
+        }
+    ]
+}
