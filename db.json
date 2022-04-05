@@ -19,10 +19,10 @@
     ],
     "operadoras":[
         {
-           " nome": "Oi",
+           "nome": "Oi",
             "codigo": 14
         }, {
-           " nome": "Vivo",
+           "nome": "Vivo",
             "codigo": 15
         }, {
             "nome": "Tim",
